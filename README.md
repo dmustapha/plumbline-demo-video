@@ -1,3 +1,13 @@
 # Plumbline demo video
 
-The demo video for [Plumbline](https://github.com/dmustapha/plumbline), built for the Vultr Agent Rush. It is hosted here so the main repository stays free of video files.
+Relative path:
+
+<video src="plumbline-demo.mp4" controls width="100%"></video>
+
+Absolute raw path:
+
+<video src="https://github.com/dmustapha/plumbline-demo-video/raw/main/plumbline-demo.mp4" controls width="100%"></video>
+
+Bare link:
+
+https://github.com/dmustapha/plumbline-demo-video/raw/main/plumbline-demo.mp4
